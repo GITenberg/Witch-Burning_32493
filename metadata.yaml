@@ -1,0 +1,31 @@
+_repo: Witch-Burning_32493
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Counselman, Mary Elizabeth
+    aliases:
+    - Counselman, Mary E.
+    - Counselman, Elizabeth
+    - Counselman-Vinyard, Mary Elizabeth
+    - Counselman, M. E.
+    birthdate: 1911
+    deathdate: 1995
+    gutenberg_agent_id: '35875'
+    url: http://www.gutenberg.org/2009/agents/35875
+description: ''
+gutenberg_issued: '2010-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32493'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PS'
+title: Witch-Burning
+url: http://www.gutenberg.org/ebooks/32493
